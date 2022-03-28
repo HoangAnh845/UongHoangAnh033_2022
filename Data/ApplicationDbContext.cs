@@ -14,6 +14,8 @@ namespace UongHoangAnh2022033.Data{
         }
 
         public DbSet<UongHoangAnh2022033.Models.PersonUHA2022033> PersonUHA2022033 { get; set; }
+
+        public DbSet<UongHoangAnh2022033.Models.UHA1033> UHA1033 { get; set; }
     }
 }
     

@@ -16313,8 +16313,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\UHA1033\\Edit.cshtml",
+      "TargetPath": "Views\\UHA1033\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\UHA1033\\Index.cshtml",
+      "TargetPath": "Views\\UHA1033\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16338,8 +16348,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\UHA1033\\Create.cshtml",
+      "TargetPath": "Views\\UHA1033\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\Persons\\Edit.cshtml",
       "TargetPath": "Views\\Persons\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\UHA1033\\Details.cshtml",
+      "TargetPath": "Views\\UHA1033\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16350,6 +16370,11 @@
     {
       "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\UongHoangAnh033_2022\\UongHoangAnh2022033\\Views\\UHA1033\\Delete.cshtml",
+      "TargetPath": "Views\\UHA1033\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
