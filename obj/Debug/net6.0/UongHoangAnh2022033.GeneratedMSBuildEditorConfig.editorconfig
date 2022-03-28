@@ -8,37 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UongHoangAnh2022033
 build_property.RootNamespace = UongHoangAnh2022033
-build_property.ProjectDir = d:\UongHoangAnh033_2022\UongHoangAnh2022033\
+build_property.ProjectDir = D:\UongHoangAnh033_2022\UongHoangAnh2022033\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\UongHoangAnh033_2022\UongHoangAnh2022033
+build_property.MSBuildProjectDirectory = D:\UongHoangAnh033_2022\UongHoangAnh2022033
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Home/Index.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Home/Privacy.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/Error.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Persons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Persons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Persons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Persons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Persons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/_ViewImports.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/_ViewStart.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/_Layout.cshtml]
+[D:/UongHoangAnh033_2022/UongHoangAnh2022033/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mgqkaj125r
